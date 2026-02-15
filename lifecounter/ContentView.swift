@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  lifecounter
-//
-//  Created by Keshav Kalia on 2/15/26.
-//
+
 
 import SwiftUI
 
